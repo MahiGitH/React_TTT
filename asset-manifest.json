@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_TTT/static/css/main.4dc275c1.css",
+    "main.js": "/React_TTT/static/js/main.730f2750.js",
+    "static/media/tic-tac-toe-game.jpg": "/React_TTT/static/media/tic-tac-toe-game.aef7acdc1984be866840.jpg",
+    "index.html": "/React_TTT/index.html",
+    "main.4dc275c1.css.map": "/React_TTT/static/css/main.4dc275c1.css.map",
+    "main.730f2750.js.map": "/React_TTT/static/js/main.730f2750.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc275c1.css",
+    "static/js/main.730f2750.js"
+  ]
+}
